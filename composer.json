@@ -1,0 +1,19 @@
+{
+    "name": "miralviitorcloud/calculator",
+    "description": "This is demo task of package development.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Miralviitorcloud\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vc-miralpatel",
+            "email": "miral.patel@viitor.cloud"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
