@@ -8,6 +8,13 @@
             "Miralviitorcloud\\Calculator\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Miralviitorcloud\\Calculator\\CalculatorServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "vc-miralpatel",
