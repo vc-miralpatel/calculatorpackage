@@ -21,10 +21,6 @@
             "email": "miral.patel@viitor.cloud"
         }
     ],
-    "config": {
-        "sort-packages": true
-    },
-    "prefer-stable": true,
     "minimum-stability": "dev",
     "require": {}
 }
