@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Miralviitorcloud\\Calculator\\": "src/"
+            "Miralviitorcloud\\Calculator\\": "packages/miralviitorcloud/calculator/src/"
         }
     },
     "extra": {
@@ -21,6 +21,11 @@
             "email": "miral.patel@viitor.cloud"
         }
     ],
+    "config": {
+        "sort-packages": true
+    },
+    "prefer-stable": true,
     "minimum-stability": "dev",
     "require": {}
 }
+
